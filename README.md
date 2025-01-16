@@ -43,10 +43,6 @@ The extension requires the following permissions:
 - `tabs`: To reload tabs after toggling settings.
 - `activeTab`: To identify the currently active website.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Contributing
 
 Contributions are welcome! Feel free to submit issues or pull requests to improve the extension.
@@ -54,8 +50,5 @@ Contributions are welcome! Feel free to submit issues or pull requests to improv
 ## Screenshots
 
 ### Popup Interface
-![Popup Interface](path/to/screenshot.png)
-
----
-
-Feel free to customize the repository name, description, or any additional sections based on your preferences.
+![Popup Interface](disabled.png)
+![Popup Interface](enabled.png)
