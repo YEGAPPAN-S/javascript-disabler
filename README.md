@@ -11,7 +11,7 @@ A Chrome extension to toggle JavaScript on specific websites effortlessly. With 
 
 ## Installation
 
-1. Clone this repository or [download the zip file](https://github.com/your-username/javascript-disabler).
+1. Clone this repository or [download the zip file](https://github.com/YEGAPPAN-S/javascript-disabler).
 2. Extract the files to a directory on your computer.
 3. Open Google Chrome and navigate to `chrome://extensions`.
 4. Enable "Developer mode" in the top right corner.
