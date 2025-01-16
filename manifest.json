@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "JavaScript Disabler",
+  "version": "1.0",
+  "description": "Easily toggle JavaScript on specific websites",
+  "permissions": [
+    "declarativeNetRequest",
+    "storage",
+    "tabs",
+    "activeTab"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "128": "icon.png"
+  }
+}
